@@ -1,1 +1,4 @@
-
+/* Reset the default setting   */
+*{
+    box-sizing: border-box;
+}
